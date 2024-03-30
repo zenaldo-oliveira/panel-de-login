@@ -8,7 +8,7 @@
  <img  align-items="center" height="15"padding="10" top="10" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white alt="logo-html" />
  <img  align-items="center" height="15" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="logo-css" />
  
- <h4>💲  Projeto disponivel (online) 💲 <a href="https://tiny-platypus-0ced24.netlify.app/"💲 >Painel de login</a></h4>
+ <h4>💲  Projeto disponivel (online) 💲 <a href="https://shiny-stroopwafel-d6cc22.netlify.app/"💲 >Painel de login</a></h4>
  <br>
 <img src="https://github.com/zenaldo-oliveira/panel-de-login/blob/main/imagem.lconectada.png?raw=true" alt="img-logo-pc"/>
 
